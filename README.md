@@ -1,2 +1,2 @@
-# my-first-repo
-My first repository in Github
+# web (front-end) програмування
+Репозиторій Гнаток Вероніки Сергіївни
